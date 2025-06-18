@@ -2,6 +2,23 @@
 
 An interactive p5.js artwork: the square changes size with your mouse, and you can adjust colors with the GUI.
 
+## Gallery
+
+<table>
+  <tr>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.16.jpg" width="220"/></td>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.21.jpg" width="220"/></td>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.25.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.49 (1).jpg" width="220"/></td>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.49.jpg" width="220"/></td>
+    <td><img src="public/Screenshot 2025-06-18 at 23.14.52.jpg" width="220"/></td>
+  </tr>
+</table>
+
+<p align="center"><i>Screenshots of the interactive artwork</i></p>
+
 ## Features
 
 - Responsive square whose size changes based on mouse position
